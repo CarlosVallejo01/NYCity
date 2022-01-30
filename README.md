@@ -17,3 +17,6 @@ Utilicé itch.io para subir mi ecena convertida a WebGl con Unity.
 1. Simple Cars Pack by MyxerMan. -> https://assetstore.unity.com/packages/3d/vehicles/land/simple-cars-pack-97669
 3. Real New York City Vol. 1 by Geopipe, Inc.  -> https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-1-208247
 
+## Controles
+Para mover el dron hacia atras o hacia adelante: (w, s)
+Para rotar el dron: (a, d)
