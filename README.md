@@ -9,11 +9,11 @@ En la escena se van a poder observar autos en movimiento distintas prespectivas 
 Puedes entrar al siguiente enlace: https://carlosvallejo.itch.io/ny-city
 Utilicé itch.io para subir mi ecena convertida a WebGl con Unity.
 
-##Software Utilizado
+## Software Utilizado
 1. Unity en su versión 2020.3.26f1
 2. Hosting de la escena: itch.io
 
-##Unity Assets usados
+## Unity Assets usados
 1. Simple Cars Pack by MyxerMan. -> https://assetstore.unity.com/packages/3d/vehicles/land/simple-cars-pack-97669
 3. Real New York City Vol. 1 by Geopipe, Inc.  -> https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-1-208247
 
